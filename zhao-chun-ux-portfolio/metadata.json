@@ -1,0 +1,8 @@
+{
+  "name": "Zhao Chun UX Portfolio",
+  "description": "A high-end, interactive personal portfolio website for Zhao Chun, a Senior UX Designer, featuring fluid animations and a masonry project gallery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
